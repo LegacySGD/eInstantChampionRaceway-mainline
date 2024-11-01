@@ -1,0 +1,116 @@
+{
+	"ui":{
+		"balance":"余额",
+		"wager":"单注金额",
+		"demo":"演示",
+		"wins":"奖励",
+		"demoWins":"演示奖励",
+		"buy":"购买",
+		"try":"试玩",
+		"revealAll":"击打全部",
+		"spin":"SPIN",
+		"revealAllStop":"停",
+		"exit":"退出",
+		"playForMoney":"现金游戏"
+	},
+	"profiles":{
+		"label_jockey":"JOCKEY:",
+		"label_trainer":"TRAINER:",
+		"label_form":"FORM:",
+		"label_age":"AGE:",
+		"button_close":"CLOSE",
+		"horse1":{
+			"name":"PINK LADY",
+			"jockey":"Paddy Jumprite",
+			"trainer":"Darragh O'Beanman",
+			"form":"8-6-2-3-8-1",		
+			"age":"5"		
+		},
+		"horse2":{
+			"name":"JUMP STEADY",
+			"jockey":"Jimmy Furlong",
+			"trainer":"Chris Rowling",
+			"form":"7-1-4-3-6-4",		
+			"age":"7"
+		},
+		"horse3":{
+			"name":"ROB'S RACER",
+			"jockey":"Michael Mayket",
+			"trainer":"Jennifer Evans",
+			"form":"5-4-1-6-3-2",		
+			"age":"4"
+		},
+		"horse4":{
+			"name":"HEAVEN BOUND",
+			"jockey":"Shane Fallfast",
+			"trainer":"Phil Turnpike",
+			"form":"4-1-7-5-5-6",		
+			"age":"6"
+		},
+		"horse5":{
+			"name":"FLYING BEAST",
+			"jockey":"Shaun O'Malley",
+			"trainer":"Dereck Winnas",
+			"form":"2-7-4-6-1-F",		
+			"age":"5"
+		},
+		"horse6":{
+			"name":"GRANDMA'S WONDER",
+			"jockey":"James Beacher",
+			"trainer":"Brian Battling",
+			"form":"7-U-4-1-3-4",		
+			"age":"7"
+		},
+		"horse7":{
+			"name":"SUPER TROOPER",
+			"jockey":"Dale Green",
+			"trainer":"Shaun Aspell",
+			"form":"4-D-6-5-3-1",		
+			"age":"4"
+		},
+		"horse8":{
+			"name":"FLIGHT OF FANCY",
+			"jockey":"Keith O'Carr",
+			"trainer":"Mark Bowring",
+			"form":"1-4-3-8-2-5",		
+			"age":"6"
+		}
+	},
+	"game":{
+		"noWin":"",
+		"noWin_picker":"",
+		"multiplier":"2x",
+		"assign_prizes_portrait":"Drag and drop prize values next to your 5 favorite runners or use QUICK PICK then CONFIRM.",
+		"assign_prizes_landscape":"Use the i's to view each horse’s info. Next, assign prize values to 5 horses - drag and drop prizes under their numbers or use QUICK PICK then CONFIRM.",
+		"button_confirm":"CONFIRM",
+		"button_assign":"QUICK PICK",
+		"winUpTo_label":"WIN UP TO"
+	},
+	"help":{
+		"title":"规则说明",
+		"prize_dummy":"PRIZE",
+		"button_ok":"OK",
+		"portrait":{
+			"help_text":"Use the information (i) icons to learn more about each runner.\n\nDrag and drop prize values under 5 of the 8 numbers or use QUICK PICK to assign prize values to your 5 favorite runners, and then use CONFIRM to verify your picks for the race.\n\nUse SPIN or AUTO SPIN to spin the reels and advance the runners down the raceway.\n\nArrows advance runners 1-3 spaces.\n\n2x doubles a runner's current prize value.\n\nThe first runner that crosses the finish line wins! Let's hope 1 of your 5 runners makes it to the winner’s circle!",
+			"starPos":288.5,
+			"arrowsPos":443
+		},
+		"landscape":{
+			"help_text":"Use the information (i) icons to learn more about each runner.\n\nDrag and drop prize values under 5 of the 8 numbers or use QUICK PICK to assign prize values to your 5 favorite runners, and then use CONFIRM to verify your picks for the race.\n\nUse SPIN or AUTO SPIN to spin the reels and advance the runners down the raceway.\n\nArrows advance runners 1-3 spaces.\n\n2x doubles a runner's current prize value.\n\nThe first runner that crosses the finish line wins! Let's hope 1 of your 5 runners makes it to the winner’s circle!",
+			"starPos":229,
+			"arrowsPos":383
+		}
+	},
+	"result":{		
+		"congratulations":"恭喜!",
+		"thanksForPlaying":"感谢参与!",
+		"winText":"你赢了",
+		"demoWinText":"你可以赢得",
+		"loseText":"下次运气更好",
+		"prizeSuffix_buy":"!",
+		"prizeSuffix_try":"."
+	},
+	"error":{
+		"errorCode":"错误代码: {0}\n\n{1}\n\n{2}"
+	}
+}

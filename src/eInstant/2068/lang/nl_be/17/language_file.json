@@ -1,0 +1,117 @@
+{
+	"version": "1.4.2017-10:24AM-SM-nl_be-default",
+	"ui": {
+		"balance": "BALANS",
+		"wager": "INZET",
+		"demo": "DEMO ",
+		"wins": "WINST",
+		"demoWins": "DEMO",
+		"buy": "KOPEN",
+		"try": "DEMO",
+		"revealAll": "AUTOPLAY",
+		"spin": "GO",
+		"revealAllStop": "STOP",
+		"exit": "VERLATEN",
+		"playForMoney": "KOPEN (€ 5)"
+	},
+	"profiles": {
+		"label_jockey": "JOCKEY:",
+		"label_trainer": "TRAINER:",
+		"label_form": "VORM:",
+		"label_age": "LEEFTIJD:",
+		"button_close": "SLUIT",
+		"horse1": {
+			"name": "PINK LADY",
+			"jockey": "Steven Snelheid",
+			"trainer": "Danny Draft",
+			"form": "8-6-2-3-8-1",
+			"age": "5"
+		},
+		"horse2": {
+			"name": "JUMP STEADY",
+			"jockey": "Tom Tornado",
+			"trainer": "Henk Hoefijzer",
+			"form": "7-1-4-3-6-4",
+			"age": "7"
+		},
+		"horse3": {
+			"name": "ROB'S RACER",
+			"jockey": "Freddy Fülgass",
+			"trainer": "Gerry Gallop",
+			"form": "5-4-1-6-3-2",
+			"age": "4"
+		},
+		"horse4": {
+			"name": "HEAVEN BOUND",
+			"jockey": "Patrick Paardenstaart",
+			"trainer": "Zora Zadelmans",
+			"form": "4-1-7-5-5-6",
+			"age": "6"
+		},
+		"horse5": {
+			"name": "FLYING BEAST",
+			"jockey": "Ronny Rodeo",
+			"trainer": "Lisa Teugels",
+			"form": "2-7-4-6-1-F",
+			"age": "5"
+		},
+		"horse6": {
+			"name": "GRANDMA'S WONDER",
+			"jockey": "Joeri De Juicher",
+			"trainer": "Mark Podiums",
+			"form": "7-F-4-1-3-4",
+			"age": "7"
+		},
+		"horse7": {
+			"name": "SUPER TROOPER",
+			"jockey": "Arnaud Alstublieft",
+			"trainer": "Inge Fortuna",
+			"form": "4-F-6-5-3-1",
+			"age": "4"
+		},
+		"horse8": {
+			"name": "FLIGHT OF FANCY",
+			"jockey": "Mike Medaille",
+			"trainer": "Jolien De Plus",
+			"form": "1-4-3-8-2-5",
+			"age": "6"
+		}
+	},
+	"game": {
+		"noWin": "",
+		"noWin_picker": "",
+		"multiplier": "2x",
+		"assign_prizes_portrait": "Zet in op 5 van de 8 paarden door de 5 lintjes te verslepen naar de paardnummers. Of kies \"Quick Pick\".",
+		"assign_prizes_landscape": "Zet in op 5 van de 8 paarden door de 5 lintjes te verslepen naar de paard- nummers. Of kies \"Quick Pick\".",
+		"button_confirm": "BEVESTIG",
+		"button_assign": "QUICK PICK",
+		"winUpTo_label": "WIN TOT"
+	},
+	"help": {
+		"title": "HOE SPELEN?",
+		"prize_dummy": "WINST",
+		"button_ok": "OK",
+		"portrait": {
+			"help_text": "Voor de start van de race moet je inzetten op 5 van de 8 paarden. Je kiest zelf het mogelijke winstbedrag per paard door de lintjes te verslepen of door het systeem te laten kiezen via \"Quick Pick\". Als een van jouw paarden wint, dan win je het bijhorende bedrag. Via de i-iconen kan je per paard meer statistieken raadplegen.\n\nVervolgens staan alle paarden naast elkaar op de renbaan. De race start als jij op de knop \"GO\" drukt. Of laat de paarden automatisch lopen via \"Autoplay\".\n\nDe pijlen laten een paard 1 tot 3 plaatsen opschuiven.\n\nEen \"2x\" verdubbelt het mogelijke winstbedrag van het paard.\n\nHet eerste paard dat de finish bereikt wint. Indien je ingezet had op dit paard, dan win je het bijhorende bedrag.",
+			"starPos": 288.5,
+			"arrowsPos": 443
+		},
+		"landscape": {
+			"help_text": "Voor de start van de race moet je inzetten op 5 van de 8 paarden. Je kiest zelf het mogelijke winstbedrag per paard door de lintjes te verslepen of door het systeem te laten kiezen via \"Quick Pick\". Als een van jouw paarden wint, dan win je het bijhorende bedrag. Via de i-iconen kan je per paard meer statistieken raadplegen.\n\nVervolgens staan alle paarden naast elkaar op de renbaan. De race start als jij op de knop \"GO\" drukt. Of laat de paarden automatisch lopen via \"Autoplay\".\n\nDe pijlen laten een paard 1 tot 3 plaatsen opschuiven.\nEen \"2x\" verdubbelt het mogelijke winstbedrag van het paard.\n\nHet eerste paard dat de finish bereikt wint. Indien je ingezet had op dit paard, dan win je het bijhorende bedrag.",
+			"starPos": 229,
+			"arrowsPos": 383
+		}
+	},
+	"result": {
+		"congratulations": "Proficiat!",
+		"thanksForPlaying": "Bedankt om te spelen.",
+		"winText": "Je wint",
+		"demoWinText": "Een demospel geeft geen recht op winst.",
+		"loseText": "Helaas geen winst.\nGeen van je paarden is als eerste aangekomen.",
+		"prizeSuffix_buy": "",
+		"prizeSuffix_try": ""
+	},
+	"error": {
+		"errorCode": "ERROR CODE: {0}\n\n{1}\n\n{2}"
+	}
+}

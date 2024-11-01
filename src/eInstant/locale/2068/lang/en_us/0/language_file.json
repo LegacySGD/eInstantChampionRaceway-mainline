@@ -1,0 +1,118 @@
+{
+	"version": "9.14.2016-RD-en-us-default",
+
+	"ui":{
+		"balance":"0BALANCE",
+		"wager":"0TICKET COST",
+		"demo":"0TRY ",
+		"wins":"0WIN",
+		"demoWins":"0DEMO WIN",
+		"buy":"0BUY",
+		"try":"0TRY",
+		"revealAll":"0AUTO SPIN",
+		"spin":"0SPIN",
+		"revealAllStop":"0STOP",
+		"exit":"0EXIT",
+		"playForMoney":"0MOVE TO MONEY"
+	},
+	"profiles":{
+		"label_jockey":"0JOCKEY:",
+		"label_trainer":"0TRAINER:",
+		"label_form":"0FORM:",
+		"label_age":"0AGE:",
+		"button_close":"0CLOSE",
+		"horse1":{
+			"name":"0PINK LADY",
+			"jockey":"0Paddy Jumprite",
+			"trainer":"0Darragh O'Beanman",
+			"form":"08-6-2-3-8-1",		
+			"age":"05"		
+		},
+		"horse2":{
+			"name":"0JUMP STEADY",
+			"jockey":"0Jimmy Furlong",
+			"trainer":"0Chris Rowling",
+			"form":"07-1-4-3-6-4",		
+			"age":"07"
+		},
+		"horse3":{
+			"name":"0ROB'S RACER",
+			"jockey":"0Michael Mayket",
+			"trainer":"0Jennifer Evans",
+			"form":"05-4-1-6-3-2",		
+			"age":"04"
+		},
+		"horse4":{
+			"name":"0HEAVEN BOUND",
+			"jockey":"0Shane Fallfast",
+			"trainer":"0Phil Turnpike",
+			"form":"04-1-7-5-5-6",		
+			"age":"06"
+		},
+		"horse5":{
+			"name":"0FLYING BEAST",
+			"jockey":"0Shaun O'Malley",
+			"trainer":"0Dereck Winnas",
+			"form":"02-7-4-6-1-F",		
+			"age":"05"
+		},
+		"horse6":{
+			"name":"0GRANDMA'S WONDER",
+			"jockey":"0James Beacher",
+			"trainer":"0Brian Battling",
+			"form":"07-U-4-1-3-4",		
+			"age":"07"
+		},
+		"horse7":{
+			"name":"0SUPER TROOPER",
+			"jockey":"0Dale Green",
+			"trainer":"0Shaun Aspell",
+			"form":"04-D-6-5-3-1",		
+			"age":"04"
+		},
+		"horse8":{
+			"name":"0FLIGHT OF FANCY",
+			"jockey":"0Keith O'Carr",
+			"trainer":"0Mark Bowring",
+			"form":"01-4-3-8-2-5",		
+			"age":"06"
+		}
+	},
+	"game":{
+		"noWin":"",
+		"noWin_picker":"",
+		"multiplier":"02x",
+		"assign_prizes_portrait":"0Drag and drop prize values next to your 5 favorite runners or use QUICK PICK then CONFIRM.",
+		"assign_prizes_landscape":"0Use the i's to view each horse’s info. Next, assign prize values to 5 horses - drag and drop prizes under their numbers or use QUICK PICK then CONFIRM.",
+		"button_confirm":"0CONFIRM",
+		"button_assign":"0QUICK PICK",
+		"winUpTo_label":"0WIN UP TO"
+	},
+	"help":{
+		"title":"0HOW TO PLAY",
+		"prize_dummy":"0PRIZE",
+		"button_ok":"0OK",
+		"portrait":{
+			"help_text":"0Use the information (i) icons to learn more about each runner.\n\nDrag and drop prize values under 5 of the 8 numbers or use QUICK PICK to assign prize values to your 5 favorite runners, and then use CONFIRM to verify your picks for the race.\n\nUse SPIN or AUTO SPIN to spin the reels and advance the runners down the raceway.\n\nArrows advance runners 1-3 spaces.\n\n2x doubles a runner's current prize value.\n\nThe first runner that crosses the finish line wins! Let's hope 1 of your 5 runners makes it to the winner’s circle!",
+			"starPos":288.5,
+			"arrowsPos":443
+		},
+		"landscape":{
+			"help_text":"0Use the information (i) icons to learn more about each runner.\n\nDrag and drop prize values under 5 of the 8 numbers or use QUICK PICK to assign prize values to your 5 favorite runners, and then use CONFIRM to verify your picks for the race.\n\nUse SPIN or AUTO SPIN to spin the reels and advance the runners down the raceway.\n\nArrows advance runners 1-3 spaces.\n\n2x doubles a runner's current prize value.\n\nThe first runner that crosses the finish line wins! Let's hope 1 of your 5 runners makes it to the winner’s circle!",
+			"starPos":229,
+			"arrowsPos":383
+		}
+	},
+	"result":{
+		"congratulations":"0Congratulations!",
+		"thanksForPlaying":"0Thanks for playing!",
+		"winText":"0You have won",
+		"demoWinText":"0You could have won",
+		"loseText":"0BETTER LUCK\nNEXT TIME",
+		"prizeSuffix_buy":"!",
+		"prizeSuffix_try":"."
+	},
+	"error":{
+		"errorCode":"{0}: {1}\n\n{2}"
+	}
+}

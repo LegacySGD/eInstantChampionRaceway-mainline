@@ -1,0 +1,231 @@
+{
+  "fileFormatVersion": 18,
+  "versionFromFilename": "v001",
+  "gameType": 0,
+  "gridSize": 23,
+  "revealFileSignature": [
+    19,
+    66,
+    6,
+    74,
+    -52,
+    34,
+    17,
+    -66,
+    12,
+    -4,
+    -69,
+    -45,
+    -116,
+    -73,
+    24,
+    -124,
+    92,
+    -116,
+    22,
+    112,
+    -112,
+    -6,
+    -3,
+    112,
+    2,
+    98,
+    -120,
+    61,
+    46,
+    -4,
+    -83,
+    -106,
+    24,
+    21,
+    95,
+    -60,
+    -98,
+    62,
+    -109,
+    -104,
+    54,
+    -57,
+    116,
+    43,
+    -117,
+    -106,
+    -46,
+    -12,
+    -25,
+    -60,
+    27,
+    69,
+    -24,
+    42,
+    -39,
+    120,
+    14,
+    -106,
+    1,
+    7,
+    -78,
+    -110,
+    24,
+    27
+  ],
+  "bigEndian": false,
+  "playcardScanFlag": false,
+  "pricePoint": 10,
+  "betUnits": 1,
+  "validationUnits": 1,
+  "numberOfDivisions": 23,
+  "longGameName": "Horseracing 1",
+  "shortGameName": "HR001",
+  "vendorId": 1,
+  "internalAuditVendorId": 2,
+  "externalAuditVendorId": 0,
+  "gridMethod": 0,
+  "gridTrigger": 0,
+  "gridTriggerUnit": 0,
+  "prizes": [
+    {
+      "divisionValue": 100000,
+      "tableValue": 12500,
+      "winnerCount": 1,
+      "description": "A"
+    },
+    {
+      "divisionValue": 50000,
+      "tableValue": 1000,
+      "winnerCount": 1,
+      "description": "B"
+    },
+    {
+      "divisionValue": 25000,
+      "tableValue": 100,
+      "winnerCount": 1,
+      "description": "C"
+    },
+    {
+      "divisionValue": 12500,
+      "tableValue": 30,
+      "winnerCount": 1,
+      "description": "D"
+    },
+    {
+      "divisionValue": 4000,
+      "tableValue": 20,
+      "winnerCount": 1,
+      "description": "E"
+    },
+    {
+      "divisionValue": 2000,
+      "tableValue": 10,
+      "winnerCount": 1,
+      "description": "F"
+    },
+    {
+      "divisionValue": 1000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 400,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 240,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 200,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 160,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 120,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 100,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 80,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 80,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 60,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 40,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 40,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 30,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 20,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 20,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 10,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    },
+    {
+      "divisionValue": 0,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": " "
+    }
+  ],
+  "siteId": 254,
+  "prizeDescriptionLength": 1,
+  "gameGroupNumber": 0,
+  "kenoSpotCount": 0,
+  "kenoMultiplier": false
+}

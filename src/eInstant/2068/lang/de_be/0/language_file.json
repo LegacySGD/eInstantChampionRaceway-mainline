@@ -1,0 +1,117 @@
+{
+  "version": "9.14.2016-RD-en-us-default",
+  "ui": {
+    "balance": "GUTHABEN",
+    "wager": "TICKETKOSTEN",
+    "demo": "PROBIEREN",
+    "wins": "GEWINN",
+    "demoWins": "DEMO-GEWINN",
+    "buy": "KAUFEN",
+    "try": "PROBIEREN",
+    "revealAll": "AUTO SPIN",
+    "spin": "DREHEN",
+    "revealAllStop": "STOPP",
+    "exit": "ENDE",
+    "playForMoney": "ZU GELD VERSCHIEBEN"
+  },
+  "profiles": {
+    "label_jockey": "JOCKEY:",
+    "label_trainer": "TRAINER:",
+    "label_form": "FORM:",
+    "label_age": "ALTER:",
+    "button_close": "SCHLIESSEN",
+    "horse1": {
+      "name": "PINK LADY",
+      "jockey": "Paddy Jumprite",
+      "trainer": "Darragh O'Beanman",
+      "form": "8-6-2-3-8-1",
+      "age": "5"
+    },
+    "horse2": {
+      "name": "JUMP STEADY",
+      "jockey": "Jimmy Furlong",
+      "trainer": "Chris Rowling",
+      "form": "7-1-4-3-6-4",
+      "age": "7"
+    },
+    "horse3": {
+      "name": "ROB'S RACER",
+      "jockey": "Michael Mayket",
+      "trainer": "Jennifer Evans",
+      "form": "5-4-1-6-3-2",
+      "age": "4"
+    },
+    "horse4": {
+      "name": "HEAVEN BOUND",
+      "jockey": "Shane Fallfast",
+      "trainer": "Phil Turnpike",
+      "form": "4-1-7-5-5-6",
+      "age": "6"
+    },
+    "horse5": {
+      "name": "FLYING BEAST",
+      "jockey": "Shaun O'Malley",
+      "trainer": "Dereck Winnas",
+      "form": "2-7-4-6-1-F",
+      "age": "5"
+    },
+    "horse6": {
+      "name": "GRANDMA'S WONDER",
+      "jockey": "James Beacher",
+      "trainer": "Brian Battling",
+      "form": "7-U-4-1-3-4",
+      "age": "7"
+    },
+    "horse7": {
+      "name": "SUPER TROOPER",
+      "jockey": "Dale Green",
+      "trainer": "Shaun Aspell",
+      "form": "4-D-6-5-3-1",
+      "age": "4"
+    },
+    "horse8": {
+      "name": "FLIGHT OF FANCY",
+      "jockey": "Keith O'Carr",
+      "trainer": "Mark Bowring",
+      "form": "1-4-3-8-2-5",
+      "age": "6"
+    }
+  },
+  "game": {
+    "noWin": "",
+    "noWin_picker": "",
+    "multiplier": "2x",
+    "assign_prizes_portrait": "Ziehen Sie die Preiswerte neben Ihre 5 Lieblingsteilnehmer oder klicken Sie auf SCHNELLE AUSWAHL und dann auf BESTÄTIGEN.",
+    "assign_prizes_landscape": "Klicken Sie jeweils auf das i, um die Informationen der einzelnen Pferde einzusehen. Vergeben Sie als Nächstes 5 Pferden Preiswerte – ziehen Sie die Preise unter ihre Nummern, oder klicken Sie auf SCHNELLE AUSWAHL und dann auf BESTÄTIGEN.",
+    "button_confirm": "BESTÄTIGEN",
+    "button_assign": "SCHNELLE AUSWAHL",
+    "winUpTo_label": "GEWINNEN SIE BIS ZU"
+  },
+  "help": {
+    "title": "ANLEITUNG",
+    "prize_dummy": "PREIS",
+    "button_ok": "OK",
+    "portrait": {
+      "help_text": "Verwenden Sie die Informationssymbole (i), um mehr über jeden Teilnehmer zu erfahren.\n\nZiehen Sie die Preiswerte unter 5 der 8 Nummern, oder klicken Sie auf SCHNELLE AUSWAHL, um Ihren 5 Lieblingsteilnehmern Preise zuzuweisen. Klicken Sie dann auf BESTÄTIGEN, um Ihre Wahl für das Rennen zu bestätigen.\n\nKlicken Sie auf DREHEN oder AUTO SPIN, um die Walzen zu drehen und bringen Sie die Teilnehmer auf der Laufbahn voran.\n\nPfeile bringen die Teilnehmer 1-3 Plätze voran.\n\n2X verdoppelt den aktuellen Preiswert eines Teilnehmers.\n\nDer erste Teilnehmer, der die Ziellinie erreicht, gewinnt! Wir hoffen, dass 1 Ihrer 5 Teilnehmer zu den Gewinnern gehören wird!",
+      "starPos": 288.5,
+      "arrowsPos": 443
+    },
+    "landscape": {
+      "help_text": "Verwenden Sie die Informationssymbole (i), um mehr über jeden Teilnehmer zu erfahren.\n\nZiehen Sie die Preiswerte unter 5 der 8 Nummern, oder klicken Sie auf SCHNELLE AUSWAHL, um Ihren 5 Lieblingsteilnehmern Preise zuzuweisen. Klicken Sie dann auf BESTÄTIGEN, um Ihre Wahl für das Rennen zu bestätigen.\n\nKlicken Sie auf DREHEN oder AUTO SPIN, um die Walzen zu drehen und bringen Sie die Teilnehmer auf der Laufbahn voran.\n\nPfeile bringen die Teilnehmer 1-3 Plätze voran.\n\n2X verdoppelt den aktuellen Preiswert eines Teilnehmers.\n\nDer erste Teilnehmer, der die Ziellinie erreicht, gewinnt! Wir hoffen, dass 1 Ihrer 5 Teilnehmer zu den Gewinnern gehören wird!",
+      "starPos": 229,
+      "arrowsPos": 383
+    }
+  },
+  "result": {
+    "congratulations": "Glückwunsch!",
+    "thanksForPlaying": "Danke fürs Spielen!",
+    "winText": "Sie haben gewonnen:",
+    "demoWinText": "Sie hätten gewinnen können:",
+    "loseText": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+    "prizeSuffix_buy": "!",
+    "prizeSuffix_try": "."
+  },
+  "error": {
+    "errorCode": "FEHLERCODE:{0}\n\n{1}\n\n{2}"
+  }
+}

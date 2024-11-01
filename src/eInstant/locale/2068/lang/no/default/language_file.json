@@ -1,0 +1,117 @@
+{
+  "version": "9.14.2016-RD-en-us-default",
+  "ui": {
+    "balance": "SALDO",
+    "wager": "BILLETTKOSTNAD",
+    "demo": "PRØV",
+    "wins": "GEVINST",
+    "demoWins": "DEMOGEVINST",
+    "buy": "KJØP",
+    "try": "PRØV",
+    "revealAll": "AUTOSPINN",
+    "spin": "START",
+    "revealAllStop": "STOPP",
+    "exit": "LUKK",
+    "playForMoney": "FLYTT TIL PENGER"
+  },
+  "profiles": {
+    "label_jockey": "JOCKEY:",
+    "label_trainer": "TRENER:",
+    "label_form": "FORM:",
+    "label_age": "ALDER:",
+    "button_close": "STENG",
+    "horse1": {
+      "name": "PINK LADY",
+      "jockey": "Paddy Jumprite",
+      "trainer": "Darragh O'Beanman",
+      "form": "8-6-2-3-8-1",
+      "age": "5"
+    },
+    "horse2": {
+      "name": "JUMP STEADY",
+      "jockey": "Jimmy Furlong",
+      "trainer": "Chris Rowling",
+      "form": "7-1-4-3-6-4",
+      "age": "7"
+    },
+    "horse3": {
+      "name": "ROBS RACER",
+      "jockey": "Michael Mayket",
+      "trainer": "Jennifer Evans",
+      "form": "5-4-1-6-3-2",
+      "age": "4"
+    },
+    "horse4": {
+      "name": "HEAVEN BOUND",
+      "jockey": "Shane Fallfast",
+      "trainer": "Phil Turnpike",
+      "form": "4-1-7-5-5-6",
+      "age": "6"
+    },
+    "horse5": {
+      "name": "FLYING BEAST",
+      "jockey": "Shaun O'Malley",
+      "trainer": "Dereck Winnas",
+      "form": "2-7-4-6-1-F",
+      "age": "5"
+    },
+    "horse6": {
+      "name": "GRANDMAS WONDER",
+      "jockey": "James Beacher",
+      "trainer": "Brian Battling",
+      "form": "7-U-4-1-3-4",
+      "age": "7"
+    },
+    "horse7": {
+      "name": "SUPER TROOPER",
+      "jockey": "Dale Green",
+      "trainer": "Shaun Aspell",
+      "form": "4-D-6-5-3-1",
+      "age": "4"
+    },
+    "horse8": {
+      "name": "FLIGHT OF FANCY",
+      "jockey": "Keith O'Carr",
+      "trainer": "Mark Bowring",
+      "form": "1-4-3-8-2-5",
+      "age": "6"
+    }
+  },
+  "game": {
+    "noWin": "",
+    "noWin_picker": "",
+    "multiplier": "2x",
+    "assign_prizes_portrait": "Dra og dropp premieverdier ved siden av dine fem favoritthester, eller bruk RASKT VALG og deretter BEKREFT.",
+    "assign_prizes_landscape": "Bruk i-ene for å se informasjon om hver hest. Legg deretter premieverdier til fem hester - dra og dropp premiene under deres tall eller bruk RASKT VALG og deretter BEKREFT.",
+    "button_confirm": "BEKREFT",
+    "button_assign": "RASKT VALG",
+    "winUpTo_label": "VINN OPPTIL"
+  },
+  "help": {
+    "title": "HVORDAN SPILLE",
+    "prize_dummy": "PREMIE",
+    "button_ok": "OK",
+    "portrait": {
+      "help_text": "Bruk informasjonsikonene (i) for å lære mer om hver hest.\n\nDra og dropp premieverdiene under fem av de åtte tallene eller bruk RASKT VALG for å legge til premieverdier på dine fem favoritthester, og bruk deretter BEKREFT for å bekrefte dine valg for løpet.\n\nBruk SPINN eller AUTOSPINN for å spinne hjulene og se flytte hestene nedover banen.\n\nPilene flytter hestene 1-3 plasser.\n\n2X dobler løperens gjeldende premieverdi.\n\nDen første hesten som krysser målstreken vinner! La oss håpe at en av dine fem løpere klarer seg til vinnerpallen!",
+      "starPos": 288.5,
+      "arrowsPos": 443
+    },
+    "landscape": {
+      "help_text": "Bruk informasjonsikonene (i) for å lære mer om hver hest.\n\nDra og dropp premieverdiene under fem av de åtte tallene eller bruk RASKT VALG for å legge til premieverdier på dine fem favoritthester, og bruk deretter BEKREFT for å bekrefte dine valg for løpet.\n\nBruk SPINN eller AUTOSPINN for å spinne hjulene og se flytte hestene nedover banen.\n\nPilene flytter hestene 1-3 plasser.\n\n2X dobler løperens gjeldende premieverdi.\n\nDen første hesten som krysser målstreken vinner! La oss håpe at en av dine fem løpere klarer seg til vinnerpallen!",
+      "starPos": 229,
+      "arrowsPos": 383
+    }
+  },
+  "result": {
+    "congratulations": "Gratulerer!",
+    "thanksForPlaying": "Takk for at du spilte!",
+    "winText": "Du har vunnet",
+    "demoWinText": "Du kunne ha vunnet",
+    "loseText": "BEDRE LYKKE\nNESTE GANG",
+    "prizeSuffix_buy": "!",
+    "prizeSuffix_try": "."
+  },
+  "error": {
+    "errorCode": "FEILKODE: {0}\n\n{1}\n\n{2}"
+  }
+}

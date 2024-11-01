@@ -1,0 +1,117 @@
+{
+  "version": "9.14.2016-RD-en-us-default",
+  "ui": {
+    "balance": "SOLDE",
+    "wager": "COÛT DU BILLET",
+    "demo": "TESTER",
+    "wins": "GAIN",
+    "demoWins": "GAIN DÉMO",
+    "buy": "ACHETER",
+    "try": "TESTER",
+    "revealAll": "JEU AUTO",
+    "spin": "JOUER",
+    "revealAllStop": "ARRÊTER",
+    "exit": "QUITTER",
+    "playForMoney": "PASSER EN ARGENT RÉEL"
+  },
+  "profiles": {
+    "label_jockey": "JOCKEY :",
+    "label_trainer": "ENTRAÎNEUR :",
+    "label_form": "PERFORMANCES :",
+    "label_age": "ÂGE :",
+    "button_close": "FERMER",
+    "horse1": {
+      "name": "PINK LADY",
+      "jockey": "Paddy Jumprite",
+      "trainer": "Darragh O'Beanman",
+      "form": "8-6-2-3-8-1",
+      "age": "5"
+    },
+    "horse2": {
+      "name": "JUMP STEADY",
+      "jockey": "Jimmy Furlong",
+      "trainer": "Chris Rowling",
+      "form": "7-1-4-3-6-4",
+      "age": "7"
+    },
+    "horse3": {
+      "name": "ROB'S RACER",
+      "jockey": "Michael Mayket",
+      "trainer": "Jennifer Evans",
+      "form": "5-4-1-6-3-2",
+      "age": "4"
+    },
+    "horse4": {
+      "name": "HEAVEN BOUND",
+      "jockey": "Shane Fallfast",
+      "trainer": "Phil Turnpike",
+      "form": "4-1-7-5-5-6",
+      "age": "6"
+    },
+    "horse5": {
+      "name": "FLYING BEAST",
+      "jockey": "Shaun O'Malley",
+      "trainer": "Dereck Winnas",
+      "form": "2-7-4-6-1-F",
+      "age": "5"
+    },
+    "horse6": {
+      "name": "GRANDMA'S WONDER",
+      "jockey": "James Beacher",
+      "trainer": "Brian Battling",
+      "form": "7-U-4-1-3-4",
+      "age": "7"
+    },
+    "horse7": {
+      "name": "SUPER TROOPER",
+      "jockey": "Dale Green",
+      "trainer": "Shaun Aspell",
+      "form": "4-D-6-5-3-1",
+      "age": "4"
+    },
+    "horse8": {
+      "name": "FLIGHT OF FANCY",
+      "jockey": "Keith O'Carr",
+      "trainer": "Mark Bowring",
+      "form": "1-4-3-8-2-5",
+      "age": "6"
+    }
+  },
+  "game": {
+    "noWin": "",
+    "noWin_picker": "",
+    "multiplier": "2x",
+    "assign_prizes_portrait": "Faites glisser les prix près de chacun de vos 5 favoris ou utilisez la SÉLECTION RAPIDE avant de CONFIRMER.",
+    "assign_prizes_landscape": "Vous pouvez afficher les infos d'un cheval à l'aide du « i ». Ensuite, assignez les prix à 5 d'entre eux en les faisant glisser sous leurs numéros, ou utilisez SÉLECTION RAPIDE avant de CONFIRMER.",
+    "button_confirm": "CONFIRMER",
+    "button_assign": "SÉLECTION RAPIDE",
+    "winUpTo_label": "GAGNEZ JUSQU'À"
+  },
+  "help": {
+    "title": "COMMENT JOUER",
+    "prize_dummy": "PRIX",
+    "button_ok": "OK",
+    "portrait": {
+      "help_text": "Utilisez l'icône « i » pour en apprendre plus sur chaque duo.\n\nFaites glisser les prix sous vos 5 favoris parmi les 8 numéros, ou utilisez SÉLECTION RAPIDE pour le faire automatiquement. Ensuite, appuyez sur CONFIRMER pour valider vos choix avant la course.\n\nUtilisez JOUER ou TOUR AUTO pour faire tourner les rouleaux et avancer les coureurs sur l'hippodrome.\n\nLes flèches font avancer les coureurs de 1 à 3 pas.\n\nLes multiplicateurs 2x doublent la valeur actuelle du prix concerné.\n\nLe premier coureur à atteindre la ligne d'arrivée gagne ! Il n'y a plus qu'à espérer que l'un de vos 5 favoris fera partie des gagnants !",
+      "starPos": 288.5,
+      "arrowsPos": 443
+    },
+    "landscape": {
+      "help_text": "Utilisez l'icône « i » pour en apprendre plus sur chaque duo.\n\nFaites glisser les prix sous vos 5 favoris parmi les 8 numéros, ou utilisez SÉLECTION RAPIDE pour le faire automatiquement. Ensuite, appuyez sur CONFIRMER pour valider vos choix avant la course.\n\nUtilisez JOUER ou TOUR AUTO pour faire tourner les rouleaux et avancer les coureurs sur l'hippodrome.\n\nLes flèches font avancer les coureurs de 1 à 3 pas.\n\nLes multiplicateurs 2x doublent la valeur actuelle du prix concerné.\n\nLe premier coureur à atteindre la ligne d'arrivée gagne ! Il n'y a plus qu'à espérer que l'un de vos 5 favoris fera partie des gagnants !",
+      "starPos": 229,
+      "arrowsPos": 383
+    }
+  },
+  "result": {
+    "congratulations": "Félicitations !",
+    "thanksForPlaying": "Merci d'avoir joué !",
+    "winText": "Vous avez gagné",
+    "demoWinText": "Vous auriez pu gagner",
+    "loseText": "LA PROCHAINE FOIS \nSERA LA BONNE",
+    "prizeSuffix_buy": " !",
+    "prizeSuffix_try": "."
+  },
+  "error": {
+    "errorCode": "CODE D'ERREUR : {0}\n\n{1}\n\n{2}"
+  }
+}
